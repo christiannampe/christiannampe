@@ -1,16 +1,18 @@
-## Hi there 👋
+# Gilles Fohm Nampe Christian
 
-<!--
-**christiannampe/christiannampe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps Engineer | Cyber Operations Student | Active U.S. Secret Clearance
 
-Here are some ideas to get you started:
+Experienced with cloud infrastructure, containerized deployments, and CI/CD automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Core Technologies
+Terraform | AWS | Docker | Kubernetes | Jenkins | Linux | Python | Bash | GitHub Actions
+
+## Featured Projects
+
+- Terraform AWS Infrastructure Deployment
+- Kubernetes Microservices Deployment
+- CI/CD Pipeline Automation
+
+## Contact
+LinkedIn: https://linkedin.com/in/christiannampe  
+GitHub: https://github.com/christiannampe
