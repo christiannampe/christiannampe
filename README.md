@@ -2,17 +2,15 @@
 
 DevOps Engineer | Cyber Operations Student | Active U.S. Secret Clearance
 
-Experienced with cloud infrastructure, containerized deployments, and CI/CD automation.
+## Technologies
+AWS | Terraform | Kubernetes | Docker | Jenkins | Linux | Python | Bash
 
-## Core Technologies
-Terraform | AWS | Docker | Kubernetes | Jenkins | Linux | Python | Bash | GitHub Actions
-
-## Featured Projects
-
-- Terraform AWS Infrastructure Deployment
-- Kubernetes Microservices Deployment
-- CI/CD Pipeline Automation
+## DevOps Portfolio
+• AWS Infrastructure Automation (Terraform)
+• Kubernetes Microservices Deployment
+• CI/CD Pipeline with GitHub Actions
+• Monitoring Stack (Prometheus + Grafana)
 
 ## Contact
-LinkedIn: https://linkedin.com/in/christiannampe  
-GitHub: https://github.com/christiannampe
+LinkedIn
+GitHub
